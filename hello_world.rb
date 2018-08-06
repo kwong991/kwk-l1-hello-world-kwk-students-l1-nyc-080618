@@ -1,1 +1,1 @@
-puts "Kayla Wong"
+puts "2+2=5"
