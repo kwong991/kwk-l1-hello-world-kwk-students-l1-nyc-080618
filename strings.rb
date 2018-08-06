@@ -1,2 +1,2 @@
 puts "kayla" 
-puts "kayla" .upcase
+puts "kayla" .downcase
